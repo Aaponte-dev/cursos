@@ -1,0 +1,5 @@
+.vscode
+.dccache
+node_modules
+dist
+backendNode/uploads/*
